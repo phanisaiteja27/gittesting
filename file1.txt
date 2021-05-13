@@ -1,4 +1,7 @@
 Hello im Vijay
 
+<<<<<<< HEAD
 i have added 2nd line
 
+=======
+>>>>>>> 3cbb10e28de37ca1567664de1a00a853ce7fb33c
