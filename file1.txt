@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hckabsabxbsbskjbakdbsbck;dello im Vijay
 
+=======
+Hello im Vijay
+i have added 2nd line
+>>>>>>> e6da2e6615a15a60a0b9baddeb7898c1600f77a0
